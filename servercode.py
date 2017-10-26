@@ -9,7 +9,7 @@ import pyautogui
 s=socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 
-server_address=('10.57.10.65',10007)
+server_address=('10.57.110.165',10007)
 s.bind(server_address)
 
 i=1
