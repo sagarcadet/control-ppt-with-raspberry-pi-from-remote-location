@@ -7,7 +7,7 @@ b1= Button(4)
 b2= Button(17)
 
 s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
-server_address=('10.57.10.65',10008)
+server_address=('10.57.10.165',10008)
 i=1
 #then = datetime.now()
 try:
